@@ -1,0 +1,35 @@
+                                                        header.centre {
+                                                            position: relative;
+                                                            left: 450px;
+                                                            top: 2px;
+                                                        }
+                                                        
+                                                        #underscore {
+                                                            font-size: 50px;
+                                                            position: relative;
+                                                            top: -200px;
+                                                            left: 450px;
+                                                        }
+                                                        
+                                                        .hint {
+                                                            color: rgb(134, 26, 44)
+                                                        }
+                                                        
+                                                        .btn {
+                                                            background: pink;
+                                                            outline: 0;
+                                                        }
+                                                        
+                                                        .btn-reset {
+                                                            size: 10px;
+                                                            padding: 12px 27px;
+                                                            background: rgb(45, 63, 133);
+                                                            color: white;
+                                                            position: relative;
+                                                            left: 450px;
+                                                            top: 0px;
+                                                        }
+                                                        
+                                                        .btn:hover {
+                                                            background: rgb(198, 68, 150);
+                                                        }
